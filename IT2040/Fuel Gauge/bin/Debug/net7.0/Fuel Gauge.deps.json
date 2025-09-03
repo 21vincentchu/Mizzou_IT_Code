@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Fuel Gauge/1.0.0": {
+        "runtime": {
+          "Fuel Gauge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fuel Gauge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

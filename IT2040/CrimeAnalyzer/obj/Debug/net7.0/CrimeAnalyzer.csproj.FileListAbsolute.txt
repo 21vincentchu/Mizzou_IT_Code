@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.exe
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.deps.json
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.dll
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\bin\Debug\net7.0\CrimeAnalyzer.pdb
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.dll
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\obj\Debug\net7.0\refint\CrimeAnalyzer.dll
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.pdb
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\obj\Debug\net7.0\CrimeAnalyzer.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\CrimeAnalyzer\obj\Debug\net7.0\ref\CrimeAnalyzer.dll

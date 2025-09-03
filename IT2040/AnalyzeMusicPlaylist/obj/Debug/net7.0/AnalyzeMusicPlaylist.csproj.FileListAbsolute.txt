@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.exe
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.deps.json
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.dll
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\bin\Debug\net7.0\AnalyzeMusicPlaylist.pdb
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.dll
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\obj\Debug\net7.0\refint\AnalyzeMusicPlaylist.dll
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.pdb
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\obj\Debug\net7.0\AnalyzeMusicPlaylist.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\AnalyzeMusicPlaylist\obj\Debug\net7.0\ref\AnalyzeMusicPlaylist.dll

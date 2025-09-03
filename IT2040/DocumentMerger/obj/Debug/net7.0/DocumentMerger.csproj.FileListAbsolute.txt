@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\bin\Debug\net7.0\DocumentMerger.exe
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\bin\Debug\net7.0\DocumentMerger.deps.json
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\bin\Debug\net7.0\DocumentMerger.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\bin\Debug\net7.0\DocumentMerger.dll
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\bin\Debug\net7.0\DocumentMerger.pdb
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\obj\Debug\net7.0\DocumentMerger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\obj\Debug\net7.0\DocumentMerger.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\obj\Debug\net7.0\DocumentMerger.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\obj\Debug\net7.0\DocumentMerger.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\obj\Debug\net7.0\DocumentMerger.dll
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\obj\Debug\net7.0\refint\DocumentMerger.dll
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\obj\Debug\net7.0\DocumentMerger.pdb
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\obj\Debug\net7.0\DocumentMerger.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\DocumentMerger\obj\Debug\net7.0\ref\DocumentMerger.dll

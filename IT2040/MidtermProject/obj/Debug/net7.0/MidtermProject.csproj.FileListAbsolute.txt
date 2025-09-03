@@ -1,0 +1,14 @@
+/Users/vinnychu/Desktop/IT2040/MidtermProject/obj/Debug/net7.0/MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinnychu/Desktop/IT2040/MidtermProject/obj/Debug/net7.0/MidtermProject.AssemblyInfoInputs.cache
+/Users/vinnychu/Desktop/IT2040/MidtermProject/obj/Debug/net7.0/MidtermProject.AssemblyInfo.cs
+/Users/vinnychu/Desktop/IT2040/MidtermProject/obj/Debug/net7.0/MidtermProject.csproj.CoreCompileInputs.cache
+/Users/vinnychu/Desktop/IT2040/MidtermProject/bin/Debug/net7.0/MidtermProject
+/Users/vinnychu/Desktop/IT2040/MidtermProject/bin/Debug/net7.0/MidtermProject.deps.json
+/Users/vinnychu/Desktop/IT2040/MidtermProject/bin/Debug/net7.0/MidtermProject.runtimeconfig.json
+/Users/vinnychu/Desktop/IT2040/MidtermProject/bin/Debug/net7.0/MidtermProject.dll
+/Users/vinnychu/Desktop/IT2040/MidtermProject/bin/Debug/net7.0/MidtermProject.pdb
+/Users/vinnychu/Desktop/IT2040/MidtermProject/obj/Debug/net7.0/MidtermProject.dll
+/Users/vinnychu/Desktop/IT2040/MidtermProject/obj/Debug/net7.0/refint/MidtermProject.dll
+/Users/vinnychu/Desktop/IT2040/MidtermProject/obj/Debug/net7.0/MidtermProject.pdb
+/Users/vinnychu/Desktop/IT2040/MidtermProject/obj/Debug/net7.0/MidtermProject.genruntimeconfig.cache
+/Users/vinnychu/Desktop/IT2040/MidtermProject/obj/Debug/net7.0/ref/MidtermProject.dll

@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\bin\Debug\net7.0\MenuOrder.exe
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\bin\Debug\net7.0\MenuOrder.deps.json
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\bin\Debug\net7.0\MenuOrder.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\bin\Debug\net7.0\MenuOrder.dll
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\bin\Debug\net7.0\MenuOrder.pdb
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\obj\Debug\net7.0\MenuOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\obj\Debug\net7.0\MenuOrder.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\obj\Debug\net7.0\MenuOrder.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\obj\Debug\net7.0\MenuOrder.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\obj\Debug\net7.0\MenuOrder.dll
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\obj\Debug\net7.0\refint\MenuOrder.dll
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\obj\Debug\net7.0\MenuOrder.pdb
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\obj\Debug\net7.0\MenuOrder.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\MenuOrder\obj\Debug\net7.0\ref\MenuOrder.dll

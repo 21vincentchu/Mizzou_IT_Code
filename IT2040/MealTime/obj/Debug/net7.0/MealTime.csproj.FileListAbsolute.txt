@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\MealTime\bin\Debug\net7.0\MealTime.exe
+C:\Users\Vincent chu\VIsual Studio\MealTime\bin\Debug\net7.0\MealTime.deps.json
+C:\Users\Vincent chu\VIsual Studio\MealTime\bin\Debug\net7.0\MealTime.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\MealTime\bin\Debug\net7.0\MealTime.dll
+C:\Users\Vincent chu\VIsual Studio\MealTime\bin\Debug\net7.0\MealTime.pdb
+C:\Users\Vincent chu\VIsual Studio\MealTime\obj\Debug\net7.0\MealTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\MealTime\obj\Debug\net7.0\MealTime.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\MealTime\obj\Debug\net7.0\MealTime.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\MealTime\obj\Debug\net7.0\MealTime.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\MealTime\obj\Debug\net7.0\MealTime.dll
+C:\Users\Vincent chu\VIsual Studio\MealTime\obj\Debug\net7.0\refint\MealTime.dll
+C:\Users\Vincent chu\VIsual Studio\MealTime\obj\Debug\net7.0\MealTime.pdb
+C:\Users\Vincent chu\VIsual Studio\MealTime\obj\Debug\net7.0\MealTime.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\MealTime\obj\Debug\net7.0\ref\MealTime.dll
