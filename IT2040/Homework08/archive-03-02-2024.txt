@@ -1,0 +1,120 @@
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+To: source@collab.sakaiproject.org
+From: stephen@uct.ac.za
+Subject: [sakai] svn commit: r39772 - content/branches/sakai_2-5-x/content-impl/impl/src/java/org/sakaiproject/content/impl
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From louis@media.berkeley.edu Fri Jan  4 18:10:48 2008
+To: source@collab.sakaiproject.org
+From: louis@media.berkeley.edu
+Subject: [sakai] svn commit: r39771 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle java/org/sakaiproject/site/tool
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From zqian@umich.edu Fri Jan  4 16:10:39 2008
+To: source@collab.sakaiproject.org
+From: zqian@umich.edu
+Subject: [sakai] svn commit: r39770 - site-manage/branches/sakai_2-5-x/site-manage-tool/tool/src/webapp/vm/sitesetup
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From rjlowe@iupui.edu Fri Jan  4 15:46:24 2008
+To: source@collab.sakaiproject.org
+From: rjlowe@iupui.edu
+Subject: [sakai] svn commit: r39769 - in gradebook/trunk/app/ui/src: java/org/sakaiproject/tool/gradebook/ui/helpers/beans java/org/sakaiproject/tool/gradebook/ui/helpers/producers webapp/WEB-INF webapp/WEB-INF/bundle
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From zqian@umich.edu Fri Jan  4 15:03:18 2008
+To: source@collab.sakaiproject.org
+From: zqian@umich.edu
+Subject: [sakai] svn commit: r39766 - site-manage/branches/sakai_2-4-x/site-manage-tool/tool/src/java/org/sakaiproject/site/tool
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From rjlowe@iupui.edu Fri Jan  4 14:50:18 2008
+To: source@collab.sakaiproject.org
+From: rjlowe@iupui.edu
+Subject: [sakai] svn commit: r39765 - in gradebook/trunk/app: business/src/java/org/sakaiproject/tool/gradebook/business business/src/java/org/sakaiproject/tool/gradebook/business/impl ui ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/entity ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/producers ui/src/webapp/WEB-INF ui/src/webapp/WEB-INF/bundle ui/src/webapp/content/templates
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+To: source@collab.sakaiproject.org
+From: marquard@uct.ac.za
+Subject: [sakai] svn commit: r39772 - content/branches/sakai_2-5-x/content-impl/impl/src/java/org/sakaiproject/content/impl
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From louis@media.berkeley.edu Fri Jan  4 18:10:48 2008
+To: source@collab.sakaiproject.org
+From: louis@media.berkeley.edu
+Subject: [sakai] svn commit: r39771 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle java/org/sakaiproject/site/tool
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From zqian@umich.edu Fri Jan  4 16:10:39 2008
+To: source@collab.sakaiproject.org
+From: zqian@umich.edu
+Subject: [sakai] svn commit: r39770 - site-manage/branches/sakai_2-5-x/site-manage-tool/tool/src/webapp/vm/sitesetup
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From rjlowe@iupui.edu Fri Jan  4 15:46:24 2008
+To: source@collab.sakaiproject.org
+From: rjlowe@iupui.edu
+Subject: [sakai] svn commit: r39769 - in gradebook/trunk/app/ui/src: java/org/sakaiproject/tool/gradebook/ui/helpers/beans java/org/sakaiproject/tool/gradebook/ui/helpers/producers webapp/WEB-INF webapp/WEB-INF/bundle
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From zqian@umich.edu Fri Jan  4 15:03:18 2008
+To: source@collab.sakaiproject.org
+From: zqian@umich.edu
+Subject: [sakai] svn commit: r39766 - site-manage/branches/sakai_2-4-x/site-manage-tool/tool/src/java/org/sakaiproject/site/tool
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+
+From rjlowe@iupui.edu Fri Jan  4 14:50:18 2008
+To: source@collab.sakaiproject.org
+From: rjlowe@iupui.edu
+Subject: [sakai] svn commit: r39765 - in gradebook/trunk/app: business/src/java/org/sakaiproject/tool/gradebook/business business/src/java/org/sakaiproject/tool/gradebook/business/impl ui ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/entity ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/producers ui/src/webapp/WEB-INF ui/src/webapp/WEB-INF/bundle ui/src/webapp/content/templates
+
+This automatic notification message was sent by Sakai Collab (https://collab.sakaiproject.org/portal) from the Source site.
+You can modify how you receive notifications at My Workspace > Preferences.
+
+
+

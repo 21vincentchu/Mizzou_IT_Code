@@ -1,0 +1,5 @@
+apple,0.59,10
+banana,0.29,5
+computer,1099,1
+lamp,39.5,2
+book,20.9,6
